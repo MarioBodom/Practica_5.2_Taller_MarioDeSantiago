@@ -2,7 +2,6 @@
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "e:\\DAM\\Programacion\\Java\\Ejercicios iniciales\\Practica5_Taller_MarioDeSantiago\\Practica5_Taller_MarioDeSantiago.jar"
+        "lib/**/*.jar"
     ]
 }
