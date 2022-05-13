@@ -1,3 +1,4 @@
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -113,6 +114,10 @@ public class GrupoTrabajo {
                 System.out.println("El trabajo no existe");
             }
         }
+    }
+
+    public void escribeTrabajo(File archivo) {
+        
     }
     
     
